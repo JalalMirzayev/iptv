@@ -1029,3 +1029,78 @@ That's all
 Yeah, it ain't easy, baby, it's only love
 And that's all
 ```
+
+# Somebody
+
+```text
+[Verse 1]
+I've been lookin' for someone
+Between the fire and the flame
+We're all lookin' for somethin'
+To ease the pain
+
+[Verse 2]
+Now who can you turn to
+When it's all black and white
+And the winners are losers
+You see it every night
+Oh, yeah!
+
+[Chorus]
+I need somebody
+(Somebody like you)
+Everybody needs somebody
+I need somebody
+(Hey, what about you)
+Everybody needs somebody, oh
+
+[Verse 3]
+When you're out on the front line
+And you're watchin' them fall
+It doesn't take long to realize
+It ain't worth fightin' for
+
+[Verse 4]
+I thought I saw the Madonna
+When you walked in the room
+Well, your eyes were like diamonds
+And they cut right through
+Oh, they cut right through
+
+[Chorus]
+I need somebody
+(Somebody like you)
+Everybody needs somebody (Oh, yeah)
+I need somebody
+(Hey, what about you)
+We all need somebody (Hey)
+
+[Guitar Solo]
+
+[Bridge]
+(Yeah)
+Another night, another lesson learned
+It's the distance keeps us sane
+But when the silence leads to sorrow
+We do it all again, all again
+(Yeah)
+
+[Chorus]
+I need somebody
+(Somebody like you)
+Everybody needs somebody (Oh, yeah)
+I need somebody
+(Oh, what about you)
+Everybody needs somebody (Hey)
+I need somebody
+(Somebody like you)
+Everybody needs somebody
+(I need somebody)
+I need somebody
+(Yeah, what about you, yeah)
+We all need somebody (Hey, go on)
+I need somebody
+Everybody needs somebody
+I need somebody (Hey)
+Everybody needs somebody
+```
