@@ -509,3 +509,369 @@ Really, really ever loved a woman?
 Oh, just tell me have you ever really
 Really, really ever loved a woman?
 ```
+
+# When you love someone
+
+```text
+[Verse 1]
+When you love someone, you'll do anything
+You'll do all the crazy things that you can't explain
+You'll shoot the moon, put out the sun
+When you love someone
+
+[Verse 2]
+You'll deny the truth, believe a lie
+There'll be times that you'll believe you could really fly
+But your lonely nights have just begun
+When you love someone
+
+[Bridge]
+When you love someone, you'll feel it deep inside
+And nothing else could ever change your mind
+When you want someone, when you need someone
+When you love someone
+
+[Instrumental Break]
+
+[Verse 3]
+When you love someone, you'll sacrifice
+You'd give it everything you got and you won't think twice
+You'd risk it all, no matter what may come
+When you love someone
+
+[Outro]
+You'll shoot the moon, put out the sun
+When you love someone
+```
+
+# Cuts like a knife
+
+```text
+[Verse 1]
+Drivin' home this evenin'
+Coulda sworn we had it all worked out
+You had this boy believin'
+Way beyond the shadow of a doubt, yeah
+Well, I heard it on the street
+I heard you might've found somebody new, yeah
+Well, who is he, baby?
+Who is he and tell me what he means to you? Oh, yeah
+
+[Pre-Chorus]
+I took it all for granted
+But how was I to know
+That you'd be letting go
+
+[Chorus]
+Now it cuts like a knife!
+But it feels so right
+Yeah, it cuts like a knife
+Oh, but it feels so right
+
+[Verse 2]
+There's times I've been mistaken
+There's times I thought I'd been misunderstood, ooh, yeah
+So wait a minute, darlin'
+Can't you see we did the best we could?
+Ooh, we could
+
+[Pre-Chorus]
+This wouldn't be the first time
+That things have gone astray
+Now you've thrown it all away
+
+[Chorus]
+Now it cuts like a knife
+Yeah! But It feels so right
+Oh, it cuts like a knife
+Yeah, but it feels so right
+(Na-na, na, na-na, na, na-na, na-na)
+Oh, it cuts like a knife
+But it feels so right, baby
+(Na-na, na, na-na, na, na-na, na-na)
+Oh, it cuts like a knife
+Yeah! Hey!
+
+[Guitar Solo]
+
+[Pre-Chorus]
+I took it all for granted
+But how was I to know
+That you'd be letting go
+
+[Chorus]
+Now, it cuts like a knife
+Yeah, but it feels so right
+Mmm, now it cuts like a knife
+Yeah, but it feels so right, yeah!
+(Na-na, na, na-na, na, na-na, na-na)
+Oh, it cuts like a knife
+(Na-na, na, na-na, na, na-na, na-na)
+Ooh, yeah, yeah
+But it feels so right, baby
+(Na-na, na, na-na, na, na-na, na-na)
+Ooh ,yeah
+It cuts like a knife
+Now give it to me, now
+(Na-na, na, na-na, na, na-na, na-na)
+Yeah, yeah, come on boys, ow
+(Na-na, na, na-na, na, na-na, na-na)
+Feels so right, yeah-yeah-yeah
+(Na-na, na, na-na, na, na-na, na-na)
+Now it cuts like knife, now
+[Outro]
+(Na-na, na, na-na, na, na-na, na-na)
+But it feels so right, yeah yeah
+Feels so right, baby
+(Na-na, na, na-na, na, na-na, na-na)
+Na-na, yeah, it feels so right
+And it cuts like a knife
+(Na-na, na, na-na, na, na-na, na-na)
+Yeah
+Ohh
+(Na-na, na, na-na, na, na-na, na-na)
+Feels so right, yeah
+(Na-na, na, na-na, na, na-na, na-na)
+```
+
+# Do I have to say the words?
+
+```text
+[Verse 1]
+Rescue me from the mire
+Whisper words of desire
+Rescue me, darling, rescue me
+
+With your arms open wide
+Want you here by my side
+Come to me, darling, rescue me
+
+When this world's closing in
+There's no need to pretend
+Set me free, darling, rescue me
+
+[Pre-Chorus]
+I don't wanna let you go
+So I'm standing in your way
+I never needed anyone like I'm needing you today
+
+[Chorus]
+Do I have to say the words?
+Do I have to tell the truth?
+Do I have to shout it out?
+Do I have to say a prayer?
+Must I prove to you how good we are together?
+Do I have to say the words?
+
+[Verse 2]
+Rescue me from despair
+Tell me you will be there
+Help me please, darling, rescue me
+
+Every dream that we share
+Every cross that we bear
+Can't you see?
+Darling, rescue me
+
+[Pre-Chorus]
+I don't wanna let you go
+So I'm standing in your way
+I never needed anyone like I'm needing you today
+
+[Chorus]
+Do I have to say the words?
+Do I have to tell the truth?
+Do I have to shout it out?
+Do I have to say a prayer?
+Must I prove to you how good we are together?
+Do I have to say the words?
+```
+
+# I'm ready
+
+```text
+[Verse 1]
+I'd like to see you, thought I'd let you know
+I wanna be with you every day, hey
+'Cause I've got a feeling that's beginning to grow
+And there's only one thing I can say, yeah
+
+[Chorus]
+I'm ready to love you
+I'm ready to hold you, don't you know
+I'm ready to love you
+I'm ready, I'm ready
+As ready as I'm gonna be
+
+[Verse 2]
+She left me a long note when she left me here
+Told me that love was hard to find
+But baby, it's easy, and I'll make it clear
+That there's only one thing on my mind
+
+[Chorus]
+I'm ready to love you
+I'm ready to hold you, don't you know
+I'm ready to love you
+I'm ready, I'm ready
+As ready as I'm gonna be
+You might also like
+Open Arms
+Journey
+Cuts Like a Knife
+Bryan Adams
+Summer of ’69
+Bryan Adams
+[Break]
+
+[Chorus]
+I'm ready to love you
+I'm ready to hold you, don't you know
+I'm ready to love you
+I'm ready to hold you, girl don't you know
+I'm ready to love you, come on now
+I'm ready to hold you
+I'm ready to love you, sweet babe
+I'm ready to hold you, I'm ready, ready
+I'm ready to love you
+I'm ready to hold you
+```
+
+# When you're gone
+
+```text
+[Intro: Bryan Adams]
+When you're gone
+
+[Verse 1: Bryan Adams & Melanie C]
+I've been wandering around the house all night
+Wondering what the hell to do
+Yeah, I'm trying to concentrate
+But all I can think of is you
+
+[Pre-Chorus: Bryan Adams & Melanie C]
+Well, the phone don't ring 'cause my friends ain't home
+I'm tired of being all alone
+Got the TV on 'cause the radio's playing
+Songs that remind me of you
+
+[Chorus: Bryan Adams & Melanie C, Bryan Adams]
+Baby, when you're gone
+I realize I'm in love
+Days go on and on
+And the nights just seem so long
+Even food don't taste that good
+Drink ain't doing what it should
+Things just feel so wrong
+Baby, when you're gone
+Yeah
+
+[Verse 2: Bryan Adams & Melanie C]
+I've been driving up and down these streets
+Tryna find somewhere to go
+Yeah, I'm looking for a familiar face
+But there's no one I know
+
+[Pre-Chorus: Bryan Adams & Melanie C]
+Oh, this is torture, this is pain
+It feels like I'm gonna go insane
+I hope you're coming back real soon
+'Cause I don't know what to do
+
+[Chorus: Bryan Adams & Melanie C, Melanie C & Bryan Adams]
+Baby, when you're gone (When you're gone)
+I realize I'm in love
+Days go on and on (On and on)
+And the nights just seem so long
+Even food don't taste that good
+Drink ain't doing what it should
+Things just feel so wrong
+Oh, yeah
+Baby, when you're gone
+
+[Guitar Solo]
+
+[Chorus: Bryan Adams & Melanie C, Melanie C & Bryan Adams]
+Baby, when you're gone (When you're gone)
+I realize I'm in love (You're in love)
+Days go on and on
+And the nights just seem so long
+Even food don't taste that good (Ooh)
+Drink ain't doing what it should
+Ah, things just feel so wrong (So wrong)
+Baby, when you're gone (Yeah, you're gone)
+[Outro: Bryan Adams & Melanie C]
+Oh, baby, when you're gone
+Yeah, baby, when you're gone
+```
+
+# Here I am 
+
+```text
+[Intro]
+Yeah, yeah
+
+[Verse 1]
+Here I am, this is me
+There's nowhere else on earth I'd rather be
+Here I am, it's just me and you
+Tonight we make our dreams come true
+
+[Chorus]
+It's a new world, it's a new start
+It's alive with the beating of young hearts
+It's a new day, it's a new plan
+I've been waiting for you
+Here I am (Yeah, yeah)
+Here I am
+
+[Verse 2]
+Here we are, we've just begun
+And after all this time, our time has come
+Yeah, here we are, still goin' strong
+Right here in the place where we belong
+
+[Chorus]
+Oh, it's a new world, it's a new start
+It's alive with the beating of young hearts
+It's a new day, it's a new plan
+I've been waiting for you
+
+[Bridge]
+Here I am
+Yeah, here I am
+Here I am (Yeah)
+Yeah
+Waiting for you
+
+[Verse 3]
+Here I am, this is me
+There's no where else on earth I'd rather be
+Here I am, it's just me and you
+And tonight we make our dreams come true
+
+[Chorus]
+Oh, it's a new world, it's a new start
+It's alive with the beating of young hearts
+It's a new day, it's a new plan
+I've been waiting for you
+
+[Chorus]
+Oh, it's a new world, it's a new start (It's a new world)
+It's alive with the beating of young hearts
+It's a new day, it's a new plan
+I've been waiting for you (Waiting, waiting, waiting)
+
+[Outro]
+Oh, here I am (Oh, here I am)
+Here I am (Oh, here I am)
+Oh, right next to you (Oh, here I am)
+And suddenly the world is all brand new
+Here I am (Here I am)
+Here I am (Here I am)
+I'm gonna stay (I'm gonna stay)
+Now there's nothin' standin' in our way
+Oh, here I am (Here I am)
+Here I am
+This is me
+```
