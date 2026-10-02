@@ -227,6 +227,35 @@ I know her love is true
 But it's so damn easy makin' love to you
 I got my mind made up
 I need to feel your touch
+
+[Chorus]
+I'm gonna run to you
+Yeah, I'm gonna run to you
+'Cause when the feeling's right, I'm gonna stay all night
+I'm gonna run to you
+Yeah, I'm gonna run to you
+Oh, when the feeling's right, I'm gonna run all night
+I'm gonna run to you
+
+[Interlude]
+When the feeling's right
+Ooohh
+
+[Chorus]
+Oh, I'm gonna run to you
+Yeah, I'm gonna run to you
+'Cause when the feeling's right, I'm gonna stay all night
+I'm gonna run to you
+Oh, I'm gonna run to you
+Yeah, when the feeling's right, I'm gonna stay all night
+Oh, when the feeling's right now
+Oh, yeah, when the feeling's right now
+I'm gonna run to you
+Oh, oh
+Yeah, I'm gonna run to you
+Yeah, now
+Oh, I'm gonna run to you, run to you
+Yeah, I'm gonna run to you
 ```
 
 # Please Forgive Me
