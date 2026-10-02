@@ -943,3 +943,89 @@ When there's someone that you want
 When there's someone that you need
 Let's make it all, all for one and all for love
 ```
+
+# The only thing that looks good on me is you
+
+```text
+Well I don't look good in no Armani suits
+No Gucci shoes or designer boots
+I've tried the latest lines from A to Z
+But there's just one thing that looks good on me
+
+The only thing I want
+The only thing I need
+The only thing I choose
+The only thing that looks good on me - is you
+
+I'm not satisfied with Versace style
+Put those patent leather pants in the circular file
+Sometimes I think I might be lookin' good
+But there's only one thing that fits like it should
+
+The only thing I want
+The only thing I need
+The only thing I choose
+The only thing that looks good on me - is you
+
+Yeah it's you
+It could only be you
+Nobody else will ever do
+Ya baby it's you
+That I stick to
+Yeah we stick like glue
+
+The only thing I want
+The only thing I need
+The only thing I choose
+Yeah, the only thing that looks good on me - is you
+The only thing I want - Yeah
+The only thing I need
+The only thing I choose
+Yeah, the only thing that looks good on me - is you
+The only thing I want
+The only thing I need
+The only thing I choose
+The only thing that looks good on me - is you
+```
+
+# It's only love
+
+```text
+[Verse 1: Bryan Adams]
+When the feeling has ended
+There ain't no use pretending
+Don't you worry, it's only love
+When your world has been shattered
+Ain't nothing else matters
+It ain't over, it's only love
+And that's all, yeah
+
+[Verse 2: Tina Turner]
+When your heart has been broken
+Hard words have been spoken
+It ain't easy, but it's only love
+And if your life ain't worth living
+And you're ready to give in
+Just remember that it's only love, oh
+
+[Bridge: Bryan Adams & Tina Turner, Bryan Adams]
+You can live without the aggravation
+You gotta wanna win, you gotta wanna win
+You keep looking back in desperation
+Over and over and over again
+
+[Outro: Bryan Adams, Tina Turner, Both]
+Yeah, yeah, it's only love, baby
+Oh, yeah, hey, hey
+Ooh, baby, baby, it's only love, love, love
+Love, love, love
+When your world has been shattered
+Ain't nothing else matters
+It ain't over, it's only love
+If your life ain't worth living
+And you're ready to give in
+Just remember that it's only love, yeah
+That's all
+Yeah, it ain't easy, baby, it's only love
+And that's all
+```
