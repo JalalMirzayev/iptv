@@ -1,138 +1,176 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="DasErste.de@HD",Das Erste HD (1080p)
-https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
-#EXTINF:-1,ZDF HD
-http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13961
-#EXTINF:-1 tvg-id="ZDF.de@SD",ZDF (720p) [Geo-blocked]
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 tvg-id="RTL.de@SD",RTL
-https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
-#EXTINF:-1,RTL HD
-http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13942
-#EXTINF:-1,Sat 1 HD
-http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13956
-#EXTINF:-1,ProSieben HD
-http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/106983
-#EXTINF:-1 tvg-id="ProSieben.de@SD",ProSieben 
-#EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
-http://85.187.13.40:18000/ProSieben
-#EXTINF:-1 tvg-id="Kabel1@SD",Kabel1 
-https://s6.hopslan.com/kabel1x1/index.m3u8
-#EXTINF:-1,RTL Zwei
-http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/191696
-#EXTINF:-1 tvg-id="VOX.de@SD",VOX
-https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
-#EXTINF:-1,VOX HD
-http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13945
-#EXTINF:-1 tvg-id="3sat.de@SD",3sat (720p) [Geo-blocked]
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1 tvg-id="arte.de@SD",ARTE (720p) [Geo-blocked]
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/cs/mujtvprogram.cz.xml,https://iptv-org.github.io/epg/guides/de/hd-plus.de.xml,https://iptv-org.github.io/epg/guides/de/magentatv.at.xml,https://iptv-org.github.io/epg/guides/de/sky.de.xml,https://iptv-org.github.io/epg/guides/de/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/de/tvheute.at.xml,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/hr/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.xml,https://iptv-org.github.io/epg/guides/nl/tvgids.nl.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml,https://iptv-org.github.io/epg/guides/ru/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.xml,https://iptv-org.github.io/epg/guides/sl/tv2go.t-2.net.xml,https://iptv-org.github.io/epg/guides/sv/tv.nu.xml,https://iptv-org.github.io/epg/guides/sv/tv24.se.xml"
+#EXTINF:-1,13th Street HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13940
+#EXTINF:-1,3Sat HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/14015
+#EXTINF:-1,Animal Planet HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/16504
+#EXTINF:-1,Anixe HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/106248
+#EXTINF:-1,ARD Alpha HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/107053
+#EXTINF:-1,ARD Tagesschau 24 HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/205793
 #EXTINF:-1,Arte HD
 http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/15876
-
-#EXTINF:-1 tvg-id="rbbFernsehen.de@Brandenburg",RBB Brandenburg (1080p) [Geo-blocked]
-https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
-
-
-
-
-
-
+#EXTINF:-1,Baby TV
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/15848
+#EXTINF:-1,Bild
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/209370
+#EXTINF:-1,Boomerang
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/15877
+#EXTINF:-1,Cartoon Network
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/15879
+#EXTINF:-1,Classica
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/15880
+#EXTINF:-1,Comedy Central HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/16507
+#EXTINF:-1,Crime Investigation HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/31225
+#EXTINF:-1,Das Erste HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13957
+#EXTINF:-1,Deluxe Music HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/14026
+#EXTINF:-1,Discovery Channel
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13935
+#EXTINF:-1,Disney Channel HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/15881
+#EXTINF:-1,Disney Junior HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/152310
+#EXTINF:-1,Disney XD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/39121
+#EXTINF:-1,DMax HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13953
+#EXTINF:-1,DW Deutsche Welle
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/31299
+#EXTINF:-1,E! Entertainment HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/106142
+#EXTINF:-1,Euronews
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/106981
+#EXTINF:-1,FC Bayern HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/16509
+#EXTINF:-1,Fox HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13928
+#EXTINF:-1,Heimat Kanal
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13992
+#EXTINF:-1,HGTV
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13982
+#EXTINF:-1,History HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13978
+#EXTINF:-1,Jukebox
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/208364
+#EXTINF:-1,Kabel Eins Classic HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/106255
+#EXTINF:-1,Kabel Eins Doku
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/16510
+#EXTINF:-1,Kabel Eins HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/16511
+#EXTINF:-1,Kika HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13962
+#EXTINF:-1,Kinowelt TV
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13997
+#EXTINF:-1,Krone Hit
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/16512
+#EXTINF:-1,MDR
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/152275
+#EXTINF:-1,Motorvision
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13977
+#EXTINF:-1,MTV HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/69703
+#EXTINF:-1,N-TV HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/14019
+#EXTINF:-1,N24 Doku
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/44728
+#EXTINF:-1,National Geographic
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/16514
+#EXTINF:-1,Nat Geo Wild
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13949
+#EXTINF:-1,NDR
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/207866
+#EXTINF:-1,Nick HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/106969
+#EXTINF:-1,Nick Jr HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/69779
+#EXTINF:-1,One HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/16516
+#EXTINF:-1,Phoenix
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/14020
+#EXTINF:-1,Pro7 Fun HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/16518
+#EXTINF:-1,ProSieben HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/106983
+#EXTINF:-1,Pro7 Maxx HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13959
+#EXTINF:-1,RBB
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/209385
+#EXTINF:-1,Romance
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13965
+#EXTINF:-1,RTL Crime HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13993
+#EXTINF:-1,RTL HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13942
+#EXTINF:-1,RTL Living HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13960
+#EXTINF:-1,RTL Nitro HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/106987
+#EXTINF:-1,RTL Passion HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13958
+#EXTINF:-1,RTL Up HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/67447
+#EXTINF:-1,RTL Zwei
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/191696
 #EXTINF:-1,Sat 1 Emotions
 http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/67448
 #EXTINF:-1,Sat 1 Gold HD
 http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13975
-
-#EXTINF:-1 tvg-id="ARDalpha.de@SD",ARD-alpha (720p)
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-
-#EXTINF:-1 tvg-id="ZDFinfo.de@SD",ZDFinfo (720p) [Geo-blocked]
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de@SD",ZDFneo (720p) [Geo-blocked]
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:-1 tvg-id="BRFernsehen.de@Sud",BR Fernsehen Sud (1080p)
-https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
-
-
-#EXTINF:-1 tvg-id="RTLSuper.de@SD",RTL Super
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTLZwei.de@SD",RTL Zwei
-https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="WELT.de@SD",WELT
-https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="Nitro.de@SD",Nitro
-https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.de@SD",Disney Channel
-http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de@SD",ProSieben Maxx
-http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass
-#EXTINF:-1 tvg-id="kabeleinsDoku.de@SD",kabel eins Doku
-http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass
-
-#EXTINF:-1 tvg-id="AdventureEarth.de@SD",Adventure Earth (720p)
-https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ANIMALKINGDOM.de@SD",ANIMAL KINGDOM (720p)
-https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
-#EXTINF:-1 tvg-id="AnixePlus.de@SD",Anixe + (360p)
-https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
-#EXTINF:-1 tvg-id="AnixeHDSerie.de@SD",Anixe HD Serie (360p)
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-
-
-#EXTINF:-1 tvg-id="AristoTV.de@SD",Aristo TV (360p)
-https://ma.anixa.tv/clips/stream/aristo/index.m3u8
-
-
-#EXTINF:-1 tvg-id="hrfernsehen.de@SD",hr-fernsehen (1080p)
-https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
-
-#EXTINF:-1 tvg-id="KiKA.de@SD",KiKA (1080p) [Geo-blocked]
-https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-
-
-#EXTINF:-1 tvg-id="MDRFernsehen.de@Sachsen",MDR Fernsehen Sachsen (1080p) [Geo-blocked]
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehen.de@Hamburg",NDR Hamburg (720p)
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.de@SD",Nickelodeon
-https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
-
-#EXTINF:-1 tvg-id="phoenix.de@HD",Phoenix (720p) [Geo-blocked]
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-
-#EXTINF:-1 tvg-id="RAN1.de@SD",RAN1 (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ran1_high/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="RTDE.de@SD",RT DE (1080p) [Not 24/7]
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
-#EXTINF:-1 tvg-id="SRF.de@SD",SRF (1080p)
-https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="TerraMaterWILD.de@German",Terra Mater WILD (1080p)
-https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehen.de@Koln",WDR Fernsehen (720p)
-https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="WeltderWunderTV.de@SD",Welt der Wunder TV (576p)
-https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MTV.de@SD",MTV
-https://ma.anixa.tv/clips/stream/mtv/playlist.php
-#EXTINF:-1 tvg-id="ComedyCentral.de@SD",Comedy Central
-https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
-
-
-#EXTINF:-1 tvg-id="SWRFernsehenHD.de@SD",SWR Fernsehen HD
-https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv.de@SD",n-tv
-https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8
-
-
-
+#EXTINF:-1,Sat 1 HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13956
+#EXTINF:-1,Servus TV HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13948
+#EXTINF:-1,Sixx HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13955
+#EXTINF:-1,Sony AXN HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/69568
+#EXTINF:-1,Spiegel Geschichte HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13964
+#EXTINF:-1,Spiegel TV Wissen HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/207865
+#EXTINF:-1,Super RTL HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13954
+#EXTINF:-1,SWR Fernsehen
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/14016
+#EXTINF:-1,SyFy HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13995
+#EXTINF:-1,Tele 5 HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13989
+#EXTINF:-1,TLC HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13994
+#EXTINF:-1,Toggo Plus
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/69720
+#EXTINF:-1,Universal HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13988
+#EXTINF:-1,VOX HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13945
+#EXTINF:-1,VOX Up
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/98400
+#EXTINF:-1,Warner TV Comedy
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/138485
+#EXTINF:-1,Warner TV Film
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13947
+#EXTINF:-1,Warner TV Serie
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/134395
+#EXTINF:-1,Welt der Wunder HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/152260
+#EXTINF:-1,Welt HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/16526
+#EXTINF:-1,ZDF HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13961
+#EXTINF:-1,ZDF Info HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/44722
+#EXTINF:-1,ZDF Neo HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/14022
+#EXTINF:-1,Zee One
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/76349
 #EXTINF:-1 tvg-id="AlvinChannelTV.az@SD" tvg-logo="https://i.imgur.com/m6CM7VU.png" group-title="General",Alvin Channel TV (360p) [Not 24/7]
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="APATv.az@SD" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="News",APA Tv (1080p)
