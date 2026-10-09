@@ -1,4 +1,103 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DasErste.de@HD",Das Erste HD (1080p)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de@SD",ARD-alpha (720p)
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="ZDF.de@SD",ZDF (720p) [Geo-blocked]
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de@SD",ZDFinfo (720p) [Geo-blocked]
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de@SD",ZDFneo (720p) [Geo-blocked]
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 tvg-id="BRFernsehen.de@Sud",BR Fernsehen Sud (1080p)
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="ProSieben.de@SD",ProSieben (576p)
+#EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
+http://85.187.13.40:18000/ProSieben
+#EXTINF:-1 tvg-id="RTL.de@SD",RTL
+https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLSuper.de@SD",RTL Super
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="VOX.de@SD",VOX
+https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLZwei.de@SD",RTL Zwei
+https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="WELT.de@SD",WELT
+https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Nitro.de@SD",Nitro
+https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.de@SD",Disney Channel
+http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de@SD",ProSieben Maxx
+http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass
+#EXTINF:-1 tvg-id="kabeleinsDoku.de@SD",kabel eins Doku
+http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass
+#EXTINF:-1 tvg-id="3sat.de@SD",3sat (720p) [Geo-blocked]
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-id="AdventureEarth.de@SD",Adventure Earth (720p)
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ANIMALKINGDOM.de@SD",ANIMAL KINGDOM (720p)
+https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+#EXTINF:-1 tvg-id="AnixePlus.de@SD",Anixe + (360p)
+https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+#EXTINF:-1 tvg-id="AnixeHDSerie.de@SD",Anixe HD Serie (360p)
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+
+
+#EXTINF:-1 tvg-id="AristoTV.de@SD",Aristo TV (360p)
+https://ma.anixa.tv/clips/stream/aristo/index.m3u8
+#EXTINF:-1 tvg-id="arte.de@SD",ARTE (720p) [Geo-blocked]
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+
+#EXTINF:-1 tvg-id="hrfernsehen.de@SD",hr-fernsehen (1080p)
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
+#EXTINF:-1 tvg-id="KiKA.de@SD",KiKA (1080p) [Geo-blocked]
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+
+
+#EXTINF:-1 tvg-id="MDRFernsehen.de@Sachsen",MDR Fernsehen Sachsen (1080p) [Geo-blocked]
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehen.de@Hamburg",NDR Hamburg (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.de@SD",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+
+#EXTINF:-1 tvg-id="phoenix.de@HD",Phoenix (720p) [Geo-blocked]
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="RAN1.de@SD",RAN1 (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ran1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="rbbFernsehen.de@Brandenburg",RBB Brandenburg (1080p) [Geo-blocked]
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+
+#EXTINF:-1 tvg-id="RTDE.de@SD",RT DE (1080p) [Not 24/7]
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-id="SRF.de@SD",SRF (1080p)
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="TerraMaterWILD.de@German",Terra Mater WILD (1080p)
+https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Koln",WDR Fernsehen (720p)
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="WeltderWunderTV.de@SD",Welt der Wunder TV (576p)
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTV.de@SD",MTV
+https://ma.anixa.tv/clips/stream/mtv/playlist.php
+#EXTINF:-1 tvg-id="ComedyCentral.de@SD",Comedy Central
+https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
+
+
+#EXTINF:-1 tvg-id="SWRFernsehenHD.de@SD",SWR Fernsehen HD
+https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv.de@SD",n-tv
+https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="AlvinChannelTV.az@SD" tvg-logo="https://i.imgur.com/m6CM7VU.png" group-title="General",Alvin Channel TV (360p) [Not 24/7]
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="APATv.az@SD" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="News",APA Tv (1080p)
