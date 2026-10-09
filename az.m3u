@@ -171,6 +171,24 @@ http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/44722
 http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/14022
 #EXTINF:-1,Zee One
 http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/76349
+#EXTINF:-1 tvg-id="SRFzwei.ch@SD",SRF zwei
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/51/index.m3u8
+#EXTINF:-1 tvg-id="ORF1.at@SD",ORF 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8
+#EXTINF:-1 tvg-id="ORF1.at@SD",ORF 1
+http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="ORF2.at@SD",ORF 2 (720p)
+http://88.212.15.19/live/test_orf_zwei_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="ORF2.at@HD",ORF 2 (720p)
+https://orf2-247.mdn.ors.at/orf/orf2/qxa-247/manifest.m3u8
+#EXTINF:-1 tvg-id="ORFIII.at@HD",ORF III HD (720p)
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 tvg-id="ORFKids.at@SD",ORF Kids (720p)
+https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
+#EXTINF:-1 tvg-id="PBSKids.us@SD",PBS Kids (720p)
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id="AlvinChannelTV.az@SD" tvg-logo="https://i.imgur.com/m6CM7VU.png" group-title="General",Alvin Channel TV (360p) [Not 24/7]
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="APATv.az@SD" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="News",APA Tv (1080p)
