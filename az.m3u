@@ -1,26 +1,42 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DasErste.de@HD",Das Erste HD (1080p)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1,ZDF HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13961
 #EXTINF:-1 tvg-id="ZDF.de@SD",ZDF (720p) [Geo-blocked]
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-id="RTL.de@SD",RTL
 https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
+#EXTINF:-1,RTL HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13942
 #EXTINF:-1,Sat 1 HD
 http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13956
-
+#EXTINF:-1,ProSieben HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/106983
 #EXTINF:-1 tvg-id="ProSieben.de@SD",ProSieben 
 #EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
 http://85.187.13.40:18000/ProSieben
 #EXTINF:-1 tvg-id="Kabel1@SD",Kabel1 
 https://s6.hopslan.com/kabel1x1/index.m3u8
+#EXTINF:-1,RTL Zwei
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/191696
+#EXTINF:-1 tvg-id="VOX.de@SD",VOX
+https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+#EXTINF:-1,VOX HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13945
+#EXTINF:-1 tvg-id="3sat.de@SD",3sat (720p) [Geo-blocked]
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-id="arte.de@SD",ARTE (720p) [Geo-blocked]
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1,Arte HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/15876
 
 #EXTINF:-1 tvg-id="rbbFernsehen.de@Brandenburg",RBB Brandenburg (1080p) [Geo-blocked]
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="VOX.de@SD",VOX
-https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+
 
 
 #EXTINF:-1,Sat 1 Emotions
@@ -55,8 +71,7 @@ http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
 http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass
 #EXTINF:-1 tvg-id="kabeleinsDoku.de@SD",kabel eins Doku
 http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass
-#EXTINF:-1 tvg-id="3sat.de@SD",3sat (720p) [Geo-blocked]
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+
 #EXTINF:-1 tvg-id="AdventureEarth.de@SD",Adventure Earth (720p)
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ANIMALKINGDOM.de@SD",ANIMAL KINGDOM (720p)
@@ -69,8 +84,7 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 
 #EXTINF:-1 tvg-id="AristoTV.de@SD",Aristo TV (360p)
 https://ma.anixa.tv/clips/stream/aristo/index.m3u8
-#EXTINF:-1 tvg-id="arte.de@SD",ARTE (720p) [Geo-blocked]
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+
 
 #EXTINF:-1 tvg-id="hrfernsehen.de@SD",hr-fernsehen (1080p)
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
